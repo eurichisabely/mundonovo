@@ -12,16 +12,16 @@ body {
 /* secao cabecalho*/
 .cabecalho {
     background-color: #3B0050;
-    color: white;
+    color: pink;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 10px;
     border-bottom: 2px solid #ffff00b2;
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 15%;
 }
 
 .cabecalho-lista-item{
