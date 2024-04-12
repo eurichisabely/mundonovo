@@ -65,7 +65,7 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-color: #a9a9a9;
+    background-color: baby rgba(255, 192, 203, 0.507);
 }
 
 .lojas-titulo{
@@ -110,7 +110,7 @@ font-size: 45px;
     background-color: plum;
     text-align: center;
     padding: 50px;
-    border-top: 2px solid #ffff00b2;
+    border-top: 2px solid salmon;
 }
 
 .rodape-titulo{
