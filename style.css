@@ -1,12 +1,12 @@
 
-    background: linear-gradient(pink,purple,violet);
-}*{
+*{
     margin: 0;
     padding: 0;
 }
 
 body {
-    font-family: 'Mooli'background: linear-gradient(pink,purple,violet);
+    font-family: 'Mooli';
+    background: linear-gradient(pink,purple,violet);
 }
 
 /* secao cabecalho*/
@@ -75,7 +75,7 @@ padding: 50px;
 font-size: 45px;
 }
 
-.lojas-todosestados-div{
+.lojas-países-div{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
@@ -84,8 +84,8 @@ font-size: 45px;
    
 }
 
-.lojas-estado-img{
-    width: 20px;
+.lojas-países-img{
+    width: 200px;
 }
 .lojas-estado-nome{
     font-weight: 100;
